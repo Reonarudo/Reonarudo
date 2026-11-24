@@ -37,7 +37,7 @@ Representation learning, unusual storage geometries, information compression and
 
 🛠️ Around here
 
-Swift · SwiftUI · Objective-C · C/C++ · Go · Python · TypeScript NPUs · INT8 · Quantization · tinygrad · LLVM · WebAssembly Pikchr · PlantUML · Mermaid · gnuplot · Tauri · VS Code extensions ARM · Embedded Linux · ESP8266 · 3D printing · Lean
+Swift · SwiftUI · Objective-C · C/C++ · Go · Python · NPUs · Quantization · tinygrad · LLVM · WebAssembly · Pikchr · PlantUML · Mermaid · gnuplot · VS Code extensions · ARM · Embedded Linux · 3D printing · Lean
 
 ```mermaid
 ---
